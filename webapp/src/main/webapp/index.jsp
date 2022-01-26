@@ -72,8 +72,8 @@ a {
 <form action="/action_page.php">
   <div class="container">
     <h1>This is done by CI/CD Pipeline</h1>
-    <h2>This changes has been done by Kamlesh Singh</h2>
-    <p>Please fill in this form to create an account to have access of our socity camara. :)</p>
+    <h3>This changes has been done to test POLL SCM</h3>
+    <p>Please fill in this form for attendance:)</p>
     <hr>
 
     <label for="email"><b>Email</b></label>
